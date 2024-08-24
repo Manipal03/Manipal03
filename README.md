@@ -1,4 +1,4 @@
-**🌐 Sabhavat Manipal 🚀**
+<strong>**🌐 Sabhavat Manipal 🚀** <br></strong>
 **Aspiring ML Engineer | Frontend Developer | ECE-AIML Enthusiast**
 
 ---
